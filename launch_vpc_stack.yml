@@ -6,4 +6,3 @@
 
   roles:
   - launch_vpc_stack
-  - create_vpc_peering

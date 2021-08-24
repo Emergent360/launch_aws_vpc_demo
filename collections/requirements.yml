@@ -1,3 +1,2 @@
 collections:
   - name: amazon.aws
-    source: https://github.com/Emergent360/amazon.aws

@@ -1,2 +1,2 @@
-collections:
-  - name: https://github.com/Emergent360/amazon.aws.git
+---
+- src: https://github.com/Emergent360/amazon.aws.git
